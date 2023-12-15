@@ -1,0 +1,45 @@
+*{
+    font-family: Garamond;
+}
+
+
+header{
+    background-color: RosyBrown;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+.form{
+    background-color: DarkSalmon;
+    padding: 40px;
+    text-align: center;
+}
+
+main{
+    background-color: LightSalmon;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.right,.left{
+    width: 30%;
+}
+
+.bet{
+    width: 40%;
+}
+
+footer{
+    background-color: RosyBrown;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+ol{
+    border:2px solid rgb(205, 92, 92);
+    font-size: 150%;
+    padding: 0 50%;
+}

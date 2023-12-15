@@ -1,0 +1,54 @@
+*{
+    font-family: Georgia;
+}
+p{
+    padding: 10px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    display: flex;
+}
+.lewy{
+    background-color: Maroon;
+    height: 600px;
+    width: 30%;
+    color: white;
+}
+.prawy{
+    background-color: Maroon;
+    height: 600px;
+    width: 70%;
+    color: white;
+}
+
+footer{
+    background-color: DimGray;
+    color: white;
+}
+img{
+    float: left;
+    padding: 10px;
+    border: 1px solid white;
+    display: flex;
+    margin-right: 20px;
+}
+
+.par{
+    float: left;
+}
+
+#indigo {
+    background-color: indigo;
+}
+#steelblue {
+    background-color: steelblue;
+}
+#olive {
+    background-color: olive;
+}
+
